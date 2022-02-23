@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "NorbitCsCourse.sln", "NorbitCsCourse.sln.shproj", "{D8BC962A-2271-4509-9C9D-0B9BAB6DA89E}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		NorbitCsCourse.sln.projitems*{d8bc962a-2271-4509-9c9d-0b9bab6da89e}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74AD476A-7375-4460-B187-F9F593D21CCA}
+	EndGlobalSection
+EndGlobal
